@@ -1,6 +1,10 @@
+[project.urls]
+repository = "https://github.com/jeonsworld/cfit"
+changelog = "https://github.com/jeonsworld/cfit/releases"
+
 [tool.poetry]
 name = "cfit"
-version = "0.1.0"
+version = "0.1.0.post1"
 description = "A tool to estimate GPU memory requirements"
 authors = ["jeonsworld <jeonsworld@gmail.com>"]
 license = "MIT"
